@@ -1,6 +1,3 @@
-//Sofikitis Odysseas, #10130, 6934289057, sodyssea@ece.auth.gr
-//Tompoulidis Romanos, #10041, 6985700898, romanost@ece.auth.gr
-//Zlatanou Tilemaxi, #10207, 6945621084, tilezlat@ece.auth.gr
 
 public class Game {
 	int round;
